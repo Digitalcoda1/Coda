@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Coda - Conquista el mundo digital</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #ffffff;
+      color: #0d1b2a;
+      text-align: center;
+      padding: 0;
+    }
+    header {
+      background-color: #00704A;
+      color: white;
+      padding: 50px 20px;
+    }
+    h1 {
+      font-size: 2.8rem;
+      margin: 0;
+    }
+    p {
+      font-size: 1.2rem;
+      margin: 15px 0 30px;
+    }
+    .btn {
+      background-color: #D4AF37;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 1.1rem;
+    }
+    footer {
+      background-color: #f8f8f8;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #444;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Coda</h1>
+    <p>Conquista el mundo digital. Desde tu celular.</p>
+    <a class="btn" href="mailto:blomering@gmail.com">Comenzar</a>
+  </header>
+
+  <footer>
+    Contacto: <a href="mailto:blomering@gmail.com">blomering@gmail.com</a>
+  </footer>
+</body>
+</html>
+Crear página 
